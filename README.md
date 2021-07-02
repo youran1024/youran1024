@@ -17,7 +17,8 @@ good good study， day day up！
 
 
 ### 业余爱好
-![练练太极](http://www.kingkungfu.com/Upload/image/20190711/20190711134031_3812.jpg)
 <img src="http://www.kingkungfu.com/Upload/image/20190711/20190711134031_3812.jpg" width = "300" height = "200" alt="图片名称" />
+<img src="https://www.143.com.cn/zb_users/upload/2019/08/201908201566286985100290.jpg" width = "300" height = "200" alt="图片名称" />
+
 
 
