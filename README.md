@@ -17,5 +17,5 @@ good good study， day day up！
 
 
 ### 业余爱好
-![练练太极](https://www.google.com/search?q=%E5%A4%AA%E6%9E%81&newwindow=1&sxsrf=ALeKk02DYSy1nur-oQgPSvgloKavr9D23Q:1625219377509&tbm=isch&source=iu&ictx=1&fir=s_SdUezeu-t4kM%252C1AFwC3Awpc5w9M%252C%252Fm%252F01w9xh&vet=1&usg=AI4_-kQ-xJrqi2vloblqZkMEmqnoM8RgTQ&sa=X&ved=2ahUKEwigprb9jcTxAhWvyosBHQbhBr0Q_B16BAghEAE#imgrc=s_SdUezeu-t4kM)
+![练练太极](http://www.kingkungfu.com/Upload/image/20190711/20190711134031_3812.jpg)
 
