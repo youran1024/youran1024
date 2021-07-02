@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 
-客官，您有什么需要吗？
+good good study， day day up！
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youran1024&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youran1024&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youran1024&layout=compact)
 
 
