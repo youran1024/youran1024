@@ -17,5 +17,5 @@ good good study， day day up！
 
 
 ### 业余爱好
-![练练太极](http://www.kingkungfu.com/Upload/image/20190711/20190711134031_3812.jpg){:height="50%" width="50%"}
+![练练太极](http://www.kingkungfu.com/Upload/image/20190711/20190711134031_3812.jpg =)
 
