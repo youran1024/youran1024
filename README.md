@@ -2,8 +2,6 @@
 
 - 🌱 会一点点coding的非优秀程序猿 ~ 
 
-<img src="https://camo.githubusercontent.com/1d5008f163bd9c2468fd37e47a15779ba53141253ab94521d1df5e29994c5872/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f63636165333332306162353232633164303965303431663166376666656137342f74656e6f722e676966" width = "280" height = "200" alt="图片名称" />
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=youran1024&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youran1024&layout=compact)
 
